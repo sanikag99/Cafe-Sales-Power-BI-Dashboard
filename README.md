@@ -85,6 +85,7 @@ Shows the distribution of transactions across payment methods such as Cash, Card
 * Enhanced sales monitoring and decision-making
 * Supported revenue growth through data-driven insights
 
-## 🖼️ Screenshots / Demos
+## 🖼️ Screenshots / 
+## Demos
 
-![Cafe Sales Analytics Dashboard](Add your dashboard screenshot link here)
+![Cafe Sales Analytics Dashboard](https://github.com/sanikag99/Cafe-Sales-Power-BI-Dashboard/blob/main/Snapshot%20of%20Cafe%20Sales%20Dashboard.png?raw=true)
